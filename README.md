@@ -1,11 +1,12 @@
 # Go Bookstore
 
-###Introduction
+### Introduction
+
 This is a book management project build using golang and gorm.
 
 GORM is an ORM (Object–relational mapping) library for Golang. Read about GORM [here](https://gorm.io/)
 
-###Setup
+### Setup
 
 In this project we have used mysql as the database. 
 
